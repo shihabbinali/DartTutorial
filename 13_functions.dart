@@ -5,6 +5,7 @@
 // 2. Pass parameters to a Function
 // 3. Return value from a Function
 // 4. Test that by default a Function returns null
+//void মানে হচ্ছে আমরা কোন কিছু return করছি না। 
 
 void main() {
 
