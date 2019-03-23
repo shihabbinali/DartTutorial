@@ -63,6 +63,12 @@ Learn Dart Programming, its basics and Fundamentals from scratch.
 
 ## I will need to learn more deeply
     - Exception Handling
+    - getters_setters
+    - difference between abstract class and interface
+    - why need abstract class and interface
+    - make practical implementation of abstract class and interface
+    - lambda expression
+    - Closures
 
 ## Authors
 
