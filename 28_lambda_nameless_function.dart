@@ -1,6 +1,7 @@
 
 // Objectives
 // 1. Lambda Functions
+// what is Lambda?: A function without a name (same as annonymous function in javascript)
 // NOTE: A function in Dart is object
 
 void main() {
